@@ -1,0 +1,38 @@
+/*div{
+	height: 100px;
+	width: 100px;
+	background-color: grey;
+	border: 1px solid black;
+	text-align: center;
+	line-height: 100px;
+	margin: 100px auto;
+}
+h2{
+	color: red;
+}*/
+body{
+	height: 1500px;
+}
+#bla{
+	display: none;
+	width: 60%;
+	height: 500px;
+	border: 1px solid black;
+	border-radius: 8px;
+	background-color: grey;
+	color: white;
+	margin: auto;
+}
+#bla p{
+	width: 50%;
+	margin: auto;
+	text-align: justify;
+}
+#close{
+	color: white;
+	font-size: 40px;	
+}
+.test{
+	background-color: yellow;
+	color: red;
+}
